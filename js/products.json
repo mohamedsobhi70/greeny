@@ -1,0 +1,248 @@
+{
+  "newProducts": [
+    {
+      " productID": 1,
+      "id": 1,
+      "productName": "خيار",
+      "img": "/images/03.jpg",
+      "rate": 4,
+      "price": 240,
+      "available": true,
+      "discount": 29,
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium incidunt explicabo ab quam fugiat sequi, laboriosam amet cum molestias voluptatum est sit molestiae blanditiis sunt sapiente doloremque. Corporis, vitae dolorum."
+    },
+    {
+      " productID": 1,
+      "id": 2,
+      "productName": "باذنجان",
+      "img": "/images/04.jpg",
+      "rate": 4,
+      "price": 200,
+      "available": true,
+      "discount": 30,
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium incidunt explicabo ab quam fugiat sequi, laboriosam amet cum molestias voluptatum est sit molestiae blanditiis sunt sapiente doloremque. Corporis, vitae dolorum."
+    },
+    {
+      " productID": 2,
+      "id": 3,
+      "productName": "بامية",
+      "img": "/images/05.jpg",
+      "rate": 4,
+      "price": 333,
+      "available": true,
+      "discount": 20,
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium incidunt explicabo ab quam fugiat sequi, laboriosam amet cum molestias voluptatum est sit molestiae blanditiis sunt sapiente doloremque. Corporis, vitae dolorum."
+    },
+    {
+      " productID": 2,
+      "id": 4,
+      "productName": "طماطم",
+      "img": "/images/06.jpg",
+      "rate": 4,
+      "price": 444,
+      "available": true,
+      "discount": 93,
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium incidunt explicabo ab quam fugiat sequi, laboriosam amet cum molestias voluptatum est sit molestiae blanditiis sunt sapiente doloremque. Corporis, vitae dolorum."
+    },
+    {
+      " productID": 2,
+      "id": 5,
+      "productName": "بصل",
+      "img": "/images/07.jpg",
+      "rate": 4,
+      "price": 230,
+      "available": false,
+      "discount": 50,
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium incidunt explicabo ab quam fugiat sequi, laboriosam amet cum molestias voluptatum est sit molestiae blanditiis sunt sapiente doloremque. Corporis, vitae dolorum."
+    },
+    {
+      " productID": 2,
+      "id": 6,
+      "productName": "كرنب",
+      "img": "/images/08.jpg",
+      "rate": 4,
+      "price": 990,
+      "available": true,
+      "discount": 290,
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium incidunt explicabo ab quam fugiat sequi, laboriosam amet cum molestias voluptatum est sit molestiae blanditiis sunt sapiente doloremque. Corporis, vitae dolorum."
+    },
+    {
+      " productID": 2,
+      "id": 7,
+      "productName": "برقوق",
+      "img": "/images/09.jpg",
+      "rate": 4,
+      "price": 90,
+      "available": true,
+      "discount": 12,
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium incidunt explicabo ab quam fugiat sequi, laboriosam amet cum molestias voluptatum est sit molestiae blanditiis sunt sapiente doloremque. Corporis, vitae dolorum."
+    },
+    {
+      " productID": 2,
+      "id": 8,
+      "productName": "أناناس",
+      "img": "/images/10.jpg",
+      "rate": 4,
+      "price": 590,
+      "available": false,
+      "discount": 130,
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium incidunt explicabo ab quam fugiat sequi, laboriosam amet cum molestias voluptatum est sit molestiae blanditiis sunt sapiente doloremque. Corporis, vitae dolorum."
+    },
+    {
+      " productID": 2,
+      "id": 9,
+      "productName": "موز",
+      "img": "/images/11.jpg",
+      "rate": 4,
+      "price": 110,
+      "available": true,
+      "discount": 11,
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium incidunt explicabo ab quam fugiat sequi, laboriosam amet cum molestias voluptatum est sit molestiae blanditiis sunt sapiente doloremque. Corporis, vitae dolorum."
+    },
+    {
+      " productID": 2,
+      "id": 10,
+      "productName": "يقطين",
+      "img": "/images/12.jpg",
+      "rate": 4,
+      "price": 810,
+      "available": true,
+      "discount": 31,
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium incidunt explicabo ab quam fugiat sequi, laboriosam amet cum molestias voluptatum est sit molestiae blanditiis sunt sapiente doloremque. Corporis, vitae dolorum."
+    }
+  ],
+  "soldProducts": [
+    {
+      " productID": 1,
+      "id": 1,
+      "productName": "خيار",
+      "img": "/images/03.jpg",
+      "rate": 4,
+      "price": 240,
+      "available": true,
+      "discount": 29,
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium incidunt explicabo ab quam fugiat sequi, laboriosam amet cum molestias voluptatum est sit molestiae blanditiis sunt sapiente doloremque. Corporis, vitae dolorum."
+    },
+    {
+      " productID": 1,
+      "id": 2,
+      "productName": "باذنجان",
+      "img": "/images/04.jpg",
+      "rate": 4,
+      "price": 200,
+      "available": true,
+      "discount": 30,
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium incidunt explicabo ab quam fugiat sequi, laboriosam amet cum molestias voluptatum est sit molestiae blanditiis sunt sapiente doloremque. Corporis, vitae dolorum."
+    },
+    {
+      " productID": 2,
+      "id": 3,
+      "productName": "بامية",
+      "img": "/images/05.jpg",
+      "rate": 4,
+      "price": 333,
+      "available": true,
+      "discount": 20,
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium incidunt explicabo ab quam fugiat sequi, laboriosam amet cum molestias voluptatum est sit molestiae blanditiis sunt sapiente doloremque. Corporis, vitae dolorum."
+    },
+    {
+      " productID": 2,
+      "id": 4,
+      "productName": "طماطم",
+      "img": "/images/06.jpg",
+      "rate": 4,
+      "price": 444,
+      "available": true,
+      "discount": 93,
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium incidunt explicabo ab quam fugiat sequi, laboriosam amet cum molestias voluptatum est sit molestiae blanditiis sunt sapiente doloremque. Corporis, vitae dolorum."
+    },
+    {
+      " productID": 2,
+      "id": 5,
+      "productName": "بصل",
+      "img": "/images/07.jpg",
+      "rate": 4,
+      "price": 230,
+      "available": true,
+      "discount": 50,
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium incidunt explicabo ab quam fugiat sequi, laboriosam amet cum molestias voluptatum est sit molestiae blanditiis sunt sapiente doloremque. Corporis, vitae dolorum."
+    },
+    {
+      " productID": 2,
+      "id": 6,
+      "productName": "كرنب",
+      "img": "/images/08.jpg",
+      "rate": 4,
+      "price": 990,
+      "available": true,
+      "discount": 290,
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium incidunt explicabo ab quam fugiat sequi, laboriosam amet cum molestias voluptatum est sit molestiae blanditiis sunt sapiente doloremque. Corporis, vitae dolorum."
+    },
+    {
+      " productID": 2,
+      "id": 7,
+      "productName": "برقوق",
+      "img": "/images/09.jpg",
+      "rate": 4,
+      "price": 90,
+      "available": true,
+      "discount": 12,
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium incidunt explicabo ab quam fugiat sequi, laboriosam amet cum molestias voluptatum est sit molestiae blanditiis sunt sapiente doloremque. Corporis, vitae dolorum."
+    },
+    {
+      " productID": 2,
+      "id": 8,
+      "productName": "أناناس",
+      "img": "/images/10.jpg",
+      "rate": 4,
+      "price": 590,
+      "available": true,
+      "discount": 130,
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium incidunt explicabo ab quam fugiat sequi, laboriosam amet cum molestias voluptatum est sit molestiae blanditiis sunt sapiente doloremque. Corporis, vitae dolorum."
+    },
+    {
+      " productID": 2,
+      "id": 9,
+      "productName": "موز",
+      "img": "/images/11.jpg",
+      "rate": 4,
+      "price": 110,
+      "available": true,
+      "discount": 11,
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium incidunt explicabo ab quam fugiat sequi, laboriosam amet cum molestias voluptatum est sit molestiae blanditiis sunt sapiente doloremque. Corporis, vitae dolorum."
+    },
+    {
+      " productID": 2,
+      "id": 10,
+      "productName": "يقطين",
+      "img": "/images/12.jpg",
+      "rate": 4,
+      "price": 810,
+      "available": true,
+      "discount": 31,
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium incidunt explicabo ab quam fugiat sequi, laboriosam amet cum molestias voluptatum est sit molestiae blanditiis sunt sapiente doloremque. Corporis, vitae dolorum."
+    },
+    {
+      " productID": 2,
+      "id": 11,
+      "productName": "فراولة",
+      "img": "/images/13.jpg",
+      "rate": 4,
+      "price": 450,
+      "available": false,
+      "discount": 31,
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium incidunt explicabo ab quam fugiat sequi, laboriosam amet cum molestias voluptatum est sit molestiae blanditiis sunt sapiente doloremque. Corporis, vitae dolorum."
+    },
+    {
+      " productID": 2,
+      "id": 12,
+      "productName": "خوخ",
+      "img": "/images/14.jpg",
+      "rate": 4,
+      "price": 210,
+      "available": true,
+      "discount": 31,
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium incidunt explicabo ab quam fugiat sequi, laboriosam amet cum molestias voluptatum est sit molestiae blanditiis sunt sapiente doloremque. Corporis, vitae dolorum."
+    }
+  ]
+}
