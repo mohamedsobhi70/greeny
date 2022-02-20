@@ -3,7 +3,7 @@ if (localStorage.getItem("productsInCart")) {
   for (let i = 0; i < cart.length; i++) {
     document.querySelector(".cart").innerHTML += `
    <div class="row border-bottom p-1 text-center align-items-center">
-   <div class="col-3 "><img width="100px" src=${cart[i].img} alt=""></div>
+   <div class="col-3 "><img width="100px" src=".${cart[i].img}" alt=""></div>
    <div class="col-2 "><span class="fw-bold">${
      cart[i].price
    } </span> dollar</div>
